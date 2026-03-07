@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**celicja/celicja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Polish beginner programmer on his way to get the first IT job
 
-Here are some ideas to get you started:
+Before I started coding I spent a few months to learning about linux, networking and computer science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've tested many distros, but my favorite for its simplicity and reliability it's just Linux Mint (cinnamon 🫶)
+
+I've never participated in bootcamps and have not studied any IT-related subject, I am self-taught
+
+---
+
+#### Project:
+
+---
+
+#### Fun facts:
+
+* I've been a truck driver (Poland, Germany, Czech Republic)
+* I love listening creepypastas
+* Coffee addicted
