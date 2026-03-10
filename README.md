@@ -22,5 +22,4 @@ I've never participated in bootcamps and have not studied any IT-related subject
 
 ![snow1](https://github.com/user-attachments/assets/b9ca7848-b556-41f3-9976-1ccea0cad6db)
 
-![snow2](https://github.com/user-attachments/assets/6e4bf96e-c2b1-4625-a17d-97b6610bff20)
-
+![snow2](https://github.com/user-attachments/assets/f8884bf7-c6a8-409d-8db7-f92d7d7df64a)
