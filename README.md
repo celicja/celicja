@@ -22,6 +22,4 @@ I've never participated in bootcamps and have not studied any IT-related subject
 
 <img width="1919" height="1079" alt="Screenshot from 2026-03-12 11-43-39" src="https://github.com/user-attachments/assets/9a0e25ce-b381-4702-98b1-96ba3a86733f" />
 
-<img width="913" height="383" alt="Screenshot from 2026-03-12 11-48-09" src="https://github.com/user-attachments/assets/ddcac14e-8a68-4ce5-919f-71f8a56e9e25" />
-
-
+<img width="908" height="385" alt="linux" src="https://github.com/user-attachments/assets/f2a844c5-0c04-4c01-83b1-b3620206bfaf" />
