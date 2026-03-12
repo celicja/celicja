@@ -20,4 +20,5 @@ I've never participated in bootcamps and have not studied any IT-related subject
 * I love listening creepypastas
 * Coffee addicted
 
-<img width="1919" height="1079" alt="Screenshot from 2026-03-11 09-07-09" src="https://github.com/user-attachments/assets/80e0efd1-ffd8-401f-89aa-c7debe826f6b" />
+<img width="1919" height="1079" alt="Screenshot from 2026-03-12 11-40-53" src="https://github.com/user-attachments/assets/616302b6-e101-48c9-af80-ba12405578b6" />
+
